@@ -1,2 +1,2 @@
 # sustain-ssh
-This small script sustains SSH connect to server and displays some useful things
+This small script sustains SSH connection to the server and displays some useful things about your computer.
