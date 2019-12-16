@@ -1,5 +1,5 @@
 # sustain-ssh
-By default, SSH connections to the remote servers often get disconnected due to inactivity so this script keeps those connections alive and displays some nice information about the server. It also allows users 
+By default, SSH connections to the remote servers often get disconnected due to inactivity so this script keeps those connections alive and displays some nice information about the server. Script has image but also allows users to have their own images that pops up periodically.
 
 ## Usage
 Upload **sustain.sh** script to remote server and place it in desired directory of executables so you can call it from any filesystem location on the server. Give execute permissions to that script:
